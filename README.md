@@ -1,7 +1,5 @@
-# VilearnX-Task-1
-This project is a Text-to-Speech Web App that uses the Web Speech API to convert text input into speech. Users can enter text, select voices, and adjust pitch/rate. Built with Node.js, Express, and Docker for containerization. Responsive design for desktop and mobile. Deployed on Google Kubernetes Engine.
-
 # Text-to-Speech Web Application
+This project is a Text-to-Speech Web App that uses the Web Speech API to convert text input into speech. Users can enter text, select voices, and adjust pitch/rate. Built with Node.js, Express, and Docker for containerization. Responsive design for desktop and mobile. Deployed on Google Kubernetes Engine.
 
 ## Overview
 This project is a web application that utilizes the Speech Synthesis API for real-time text-to-speech conversion. Users can input text, select different languages and voices, and customize speech parameters like pitch, rate, and volume. The application is designed to be responsive and accessible across various devices.
